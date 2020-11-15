@@ -1,0 +1,23 @@
+-nội dung tuần sau
+tạo contrucstor cho population
+hàm đánh giá individual (Evaluation())
+
+
+
+
+
+hàm lai crossover(individual)
+
+
+
+
+
+population: 	list individual
+		list fathers
+		list mothers
+		list childs
+		đoạn gen của bố(30%),mẹ (70%)
+		funtion checkFitness(): kiểm tra độ tốt bao nhiêu thì giữ lại.
+
+
+-tạo gen có ràng buộc hoặc k có, set và get 
